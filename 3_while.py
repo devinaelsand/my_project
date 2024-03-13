@@ -1,5 +1,5 @@
 #
-# Ｏutput test
+# While test
 # Devina
 #
 
